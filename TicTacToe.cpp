@@ -19,7 +19,8 @@ class board{
     bool didSomeoneWon(){
         // the O cant win, fix it
         char ArrCheckedOnLine[3];
-
+        
+        // the two first for loops, each loop runs over a different line
         for (int i =0; i < this->nArrSize; i +=3){ // check horizontal lines
             ArrCheckedOnLine[0] = this->cArrPlacedCharacters[i];
             ArrCheckedOnLine[1] = this->cArrPlacedCharacters[i+1];
