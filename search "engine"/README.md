@@ -1,6 +1,6 @@
 <h1><b>Search engine<b></h1>
-
-<pre>This is a code tht can act as a library to search a keyword in an array or in a vector
+This is a code that can act as a library to search a keyword in an array or in a vector
+<pre>This is a code that can act as a library to search a keyword in an array or in a vector
 <ul>
   <h4>Functions in it</h4>
   <li>searchS()- the function gets the key word the array and the array's length and returns a string with all of the words with the key word</li>
