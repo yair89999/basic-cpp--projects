@@ -1,7 +1,7 @@
 
 <h1>The cipher Encryption and Decryption</h1>
-<pre>This is a code for the cipher encryption and decryption
-This encryption is based on the positions of every letter and the key it gets</pre>
+<p>This is a code for the cipher encryption and decryption</p>
+<p>This encryption is based on the positions of every letter and the key it gets</p>
 
 <pre>
 <h4>An example of the prints of this:</h4>
