@@ -8,8 +8,7 @@
 Key:           93
 Original word: Hello
 Encrypted word:'DKKN
-
-
+<p></p>
 Given key:      89
 Encrypted word: #@GGJ
 Decrypted word: Hello
