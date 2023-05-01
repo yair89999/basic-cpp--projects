@@ -8,5 +8,5 @@ In this repository there are the basic projects i did as a starter programmer in
   <li>Hangman game</li>
   <li>Tic Tac Toe game</li>
   <li>Search engine(3 different functions that search keyword in array/vector)</li>
-  <li>Student Report Card (to learn classes)</li>
+  <li>Student Report Card using classes (to learn classes better)</li>
 </ul>
