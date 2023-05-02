@@ -1,3 +1,10 @@
+<p>In this project you can:</p>
+<ul>
+  <li>Set a date you say you come to the office in</li>
+  <li>Print the people that come in a specific date</li>
+  <li>Print everything, printing the file itself in a format, you can know when everybody came/gonna come</li>
+</ul>
+
 <h3>Example for printing:</h3>
 
 <pre>
