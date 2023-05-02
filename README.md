@@ -10,5 +10,5 @@ In this repository there are the basic projects i did as a starter programmer in
   <li>Search engine(3 different functions that search keyword in array/vector)</li>
   <li>Student Report Card using classes (to learn classes better)</li>
   <li>Cipher Encryption and Decryption</li>
-  <li>Office Dates Managment(writing who comes and when, and getting the info about specific days)</li>
+  <li>Office Dates Managment System(writing who comes and when, and getting the info about specific days)</li>
 </ul>
